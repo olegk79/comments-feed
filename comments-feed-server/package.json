@@ -1,0 +1,14 @@
+{
+  "name": "comments-feed-server",
+  "version": "0.0.0",
+  "description": "comments-feed-server",
+  "main": "server.js",
+  "author": {
+    "name": "oleg"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "md5": "^2.2.1",
+    "mongodb": "^3.1.1"
+  }
+}
